@@ -1,0 +1,658 @@
+[
+    {
+        "UACS_DPT_DSC": "Allocations to Local Government Units (ALGU)",
+        "UACS_AGY_DSC": [
+            "Metropolitan Manila Development Authority",
+            "Bangsamoro Autonomous Region in Muslim Mindanao"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Automatic Appropriations",
+        "UACS_AGY_DSC": [
+            "Customs duties and taxes, including tax expenditures",
+            "Net Lending",
+            "National Tax Allotment",
+            "Debt Interest Payments",
+            "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+            "Internal Revenue Allotment"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Budgetary Support to Government Corporations (BSGC)",
+        "UACS_AGY_DSC": [
+            "National Power Corporation",
+            "National Tobacco Administration",
+            "Philippine Children\u2019s Medical Center",
+            "Metropolitan Waterworks and Sewerage System - Regulatory Office",
+            "Sugar Regulatory Administration",
+            "Small Business Corporation",
+            "Philippine National Railways",
+            "Philippine Sugar Corporation",
+            "Authority of the Freeport Area of Bataan",
+            "Land Bank of the Philippines",
+            "National Kidney and Transplant Institute",
+            "Philippine Ports Authority",
+            "Power Sector Assets and Liabilities Management Corporation",
+            "Government Service Insurance System",
+            "Subic Bay Metropolitan Authority",
+            "Intercontinental Broadcasting Corporation",
+            "Development Bank of the Philippines",
+            "Davao International Airport Authority",
+            "Development Academy of the Philippines",
+            "Philippine Institute for Development Studies",
+            "Philippine Fisheries Development Authority",
+            "Philippine Institute of Traditional and Alternative Health Care",
+            "Local Water Utilities Administration",
+            "Nayong Pilipino Foundation",
+            "Tourism Infrastructure and Enterprise Zone Authority",
+            "Philippine Crop Insurance Corporation",
+            "Philippine Economic Zone Authority",
+            "Lung Center of the Philippines",
+            "Laguna Lake Development Authority",
+            "Bases Conversion and Development Authority",
+            "Philippine Health Insurance Corporation",
+            "Bangko Sentral ng Pilipinas",
+            "Credit Information Corporation",
+            "Light Rail Transit Authority",
+            "National Housing Authority",
+            "National Food Authority",
+            "Philippine Guarantee Corporation",
+            "Southern Philippines Development Authority",
+            "Zamboanga City Special Economic Zone Authority",
+            "Philippine Deposit Insurance Corporation",
+            "Philippine Export-Import Credit Agency (formerly Trade and Investment Development Corporation of the Philippines)",
+            "Philippine Heart Center",
+            "Aurora Pacific Economic Zone and Freeport Authority",
+            "People's Television Network, Inc.",
+            "National Dairy Authority",
+            "Cagayan Economic Zone Authority",
+            "National Electrification Administration",
+            "Center for International Trade Expositions and Missions",
+            "National Home Mortgage Finance Corporation",
+            "Philippine Postal Corporation",
+            "Social Security System",
+            "Philippine Rice Research Institute",
+            "Philippine Tax Academy",
+            "Cultural Center of the Philippines",
+            "Social Housing Finance Corporation",
+            "Philippine Coconut Authority",
+            "Home Guaranty Corporation",
+            "Philippine Center for Economic Development",
+            "Tourism Promotions Board",
+            "National Irrigation Administration",
+            "Philippine Aerospace Development Corporation",
+            "Civil Aviation Authority of the Philippines",
+            "Trade and Investment Development Corporation (Philippine Export-Import Credit Agency)",
+            "Philippine Children\u0092s Medical Center",
+            "Philippine Children\u00c6s Medical Center"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Civil Service Commission (CSC)",
+        "UACS_AGY_DSC": [
+            "Career Executive Service Board",
+            "Civil Service Commission"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Commission on Audit (COA)",
+        "UACS_AGY_DSC": [
+            "Commission on Audit (COA)"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Commission on Elections (COMELEC)",
+        "UACS_AGY_DSC": [
+            "Commission on Elections (COMELEC)"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Commission on Human Rights (CHR)",
+        "UACS_AGY_DSC": [
+            "Human Rights Violations Victims' Memorial Commission",
+            "Commission on Human Rights (CHR)"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Congress of the Philippines (CONGRESS)",
+        "UACS_AGY_DSC": [
+            "House of Representatives",
+            "Senate Electoral Tribunal",
+            "House of Representatives Electoral Tribunal",
+            "Senate",
+            "Commission on Appointments"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Agrarian Reform (DAR)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Agriculture (DA)",
+        "UACS_AGY_DSC": [
+            "National Fisheries Research and Development Institute",
+            "Agricultural Credit Policy Council",
+            "Philippine Council for Agriculture and Fisheries  ",
+            "Office of the Secretary",
+            "Philippine Center For Postharvest Development and Mechanization",
+            "Fertilizer and Pesticide Authority",
+            "Philippine Carabao Center",
+            "Philippine Fiber Industry Development Authority",
+            "Bureau of Fisheries and Aquatic Resources",
+            "National Meat Inspection Service",
+            "Philippine Center for Post-Harvest Development and Mechanization"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Budget and Management (DBM)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Government Procurement Policy Board-Technical Support Office"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Education (DepEd)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "National Museum of the Philippines",
+            "Early Childhood Care and Development Council",
+            "Philippine High School for the Arts",
+            "National Book Development Board",
+            "National Council for Children's Television",
+            "National Academy of Sports"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Energy (DOE)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Environment and Natural Resources (DENR)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Mines and Geosciences Bureau",
+            "National Water Resources Board",
+            "National Mapping and Resource Information Authority",
+            "Palawan Council for Sustainable Development Staff",
+            "Environmental Management Bureau"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Finance (DOF)",
+        "UACS_AGY_DSC": [
+            "Bureau of Customs",
+            "National Tax Research Center",
+            "Insurance Commission",
+            "Office of the Secretary",
+            "Bureau of the Treasury",
+            "Bureau of Local Government Finance",
+            "Central Board of Assessment Appeals",
+            "Privatization and Management Office",
+            "Securities and Exchange Commission",
+            "Bureau of Internal Revenue"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Foreign Affairs (DFA)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "UNESCO National Commission of the Philippines",
+            "Foreign Service Institute",
+            "Technical Cooperation Council of the Philippines",
+            "Presidential Commission on Visiting Forces"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Health (DOH)",
+        "UACS_AGY_DSC": [
+            "Philippine National AIDS Council",
+            "Office of the Secretary",
+            "Commission on Population",
+            "National Nutrition Council"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Human Settlements and Urban Development (DHSUD)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Human Settlements Adjudication Commission"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Information and Communications Technology (DICT)",
+        "UACS_AGY_DSC": [
+            "National Privacy Commission",
+            "Cybercrime Investigation and Coordination Center",
+            "Office of the Secretary",
+            "National Telecommunications Commission"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Justice (DOJ)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Office of the Government Corporate Counsel",
+            "Public Attorney's Office",
+            "National Bureau of Investigation",
+            "Parole and Probation Administration",
+            "Land Registration Authority",
+            "Presidential Commission on Good Government",
+            "Bureau of Immigration",
+            "Bureau of Corrections",
+            "Office for Alternative Dispute Resolution",
+            "Office of the Solicitor General"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Labor and Employment (DOLE)",
+        "UACS_AGY_DSC": [
+            "National Conciliation and Mediation Board",
+            "National Maritime Polytechnic",
+            "Office of the Secretary",
+            "Professional Regulation Commission",
+            "Overseas Workers Welfare Administration",
+            "Philippine Overseas Employment Administration",
+            "Technical Education and Skills Development Authority",
+            "Institute for Labor Studies",
+            "National Labor Relations Commission",
+            "National Wages and Productivity Commission"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Migrant Workers (DMW)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Overseas Workers Welfare Administration"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of National Defense (DND)",
+        "UACS_AGY_DSC": [
+            "Philippine Veterans Affairs Office (PVAO) - Proper",
+            "General Headquarters, AFP and AFP-Wide Service Support Units (AFPWSSUs)",
+            "Veterans Memorial Medical Center",
+            "Government Arsenal",
+            "Office of Civil Defense",
+            "Office of the Secretary - Proper",
+            "Philippine Air Force ( Air Forces )",
+            "National Defense College of the Philippines",
+            "Philippine Army ( Land Forces )",
+            "Philippine Navy ( Naval Forces )"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Public Works and Highways (DPWH)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Science and Technology (DOST)",
+        "UACS_AGY_DSC": [
+            "Food and Nutrition Research Institute",
+            "Philippine Council for Health Research and Development",
+            "Philippine Council for Agriculture, Aquatic and Natural Resources Research and Development",
+            "Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD)",
+            "Technology Application and Promotion Institute",
+            "Philippine Textile Research Institute",
+            "National Academy of Science and Technology",
+            "Philippine Atmospheric, Geophysical and Astronomical Services Administration",
+            "Philippine Science High School System",
+            "Science Education Institute",
+            "Advanced Science and Technology Institute",
+            "National Research Council of the Philippines",
+            "Philippine Nuclear Research Institute",
+            "Industrial Technology Development Institute",
+            "Forest Products Research and Development Institute",
+            "Philippine Institute of Volcanology and Seismology",
+            "Office of the Secretary",
+            "Metals Industry Research and Development Center",
+            "Science and Technology Information Institute",
+            "Philippine Science High School"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Social Welfare and Development (DSWD)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Presidential Commission for the Urban Poor",
+            "National Anti-Poverty Commission",
+            "Council for the Welfare of Children",
+            "National Commission on Indigenous Peoples",
+            "Juvenile Justice and Welfare Council",
+            "National Council on Disability Affairs",
+            "National Authority for Child Care",
+            "Inter-Country Adoption Board"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Tourism (DOT)",
+        "UACS_AGY_DSC": [
+            "Philippine Commission on Sports Scuba Diving",
+            "Intramuros Administration",
+            "Office of the Secretary",
+            "National Parks Development Committee"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Trade and Industry (DTI)",
+        "UACS_AGY_DSC": [
+            "Construction Industry Authority of the Philippines (CIAP)",
+            "Office of the Secretary",
+            "Design Center of the Philippines",
+            "Board of Investments",
+            "Technical Education and Skills Development Authority",
+            "Cooperative Development Authority",
+            "Philippine Trade Training Center"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of Transportation (DOTr)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Civil Aeronautics Board",
+            "Philippine Coast Guard",
+            "Toll Regulatory Board",
+            "Maritime Industry Authority (MARINA)",
+            "Office for Transportation Security",
+            "Office of Transportation Cooperatives"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Department of the Interior and Local Government (DILG)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Bureau of Jail Management and Penology",
+            "Bureau of Fire Protection",
+            "National Commission on Muslim Filipinos (Office on Muslim Affairs)",
+            "National Police Commission",
+            "Philippine Public Safety College",
+            "Philippine Commission on Women (National Commission on the Role of Filipino Women)",
+            "Local Government Academy",
+            "National Youth Commission",
+            "Philippine National Police"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "National Economic and Development Authority (NEDA)",
+        "UACS_AGY_DSC": [
+            "Office of the Secretary",
+            "Philippine Statistics Authority",
+            "Tariff Commission",
+            "Philippine National Volunteer Service Coordinating Agency",
+            "Commission on Population and Development",
+            "Philippine Statistical Research and Training Institute (formerly Statistical Research and Training Center)",
+            "Public-Private Partnership Center of the Philippines",
+            "Office of the Director-General"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "New General Appropriations",
+        "UACS_AGY_DSC": [
+            "Special Shares of LGUs in the Proceeds of Fire Code Fees",
+            "Special Shares of LGUs in the Proceeds of National Taxes",
+            "Contingent Fund",
+            "National Disaster Risk Reduction and Management Fund ( Calamity Fund )",
+            "Pension and Gratuity Fund",
+            "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",
+            "Miscellaneous Personnel Benefits Fund",
+            "Revised AFP Modernization Program",
+            "Local Government Support Fund (formerly Financial Subsidy to LGUs)",
+            "BSGC - Others",
+            "Barangay Officials Death Benefits"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Office of the Ombudsman (OMB)",
+        "UACS_AGY_DSC": [
+            "Office of the Ombudsman"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Office of the President (OP)",
+        "UACS_AGY_DSC": [
+            "The President's Offices"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Office of the Vice-President (OVP)",
+        "UACS_AGY_DSC": [
+            "Office of the Vice-President (OVP)"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Other Executive Offices (OEOs)",
+        "UACS_AGY_DSC": [
+            "National Commission of Senior Citizens",
+            "Metropolitan Baguio City, La Trinidad, Itogon, Sablan, Tuba, and Tublay Development Authority",
+            "Dangerous Drugs Board  ",
+            "Games and Amusements Board",
+            "National Archives of the Philippines",
+            "Philippine Drug Enforcement Agency",
+            "Philippine Sports Commission",
+            "Philippine Competition Commission",
+            "Metropolitan Davao Development Authority",
+            "Housing and Land Use Regulatory Board",
+            "National Amnesty Commission",
+            "Mindanao Development Authority",
+            "National Library of the Philippines",
+            "Presidential Management Staff",
+            "Marawi Compensation Board",
+            "National Commission for Culture and the Arts-Proper",
+            "National Historical Commission of the Philippines",
+            "Housing and Urban Development Coordinating Council",
+            "Presidential Legislative Liaison Office",
+            "Commission on Higher Education",
+            "Philippine Space Agency",
+            "Pasig River Rehabilitation Commission",
+            "Optical Media Board",
+            "Film Development Council of the Philippines",
+            "Philippine Racing Commission",
+            "Climate Change Commission",
+            "Movie and Television Review and Classification Board",
+            "Commission on the Filipino Language",
+            "Philippine Information Agency",
+            "Energy Regulatory Commission",
+            "Governance Commission for Government-Owned or Controlled Corporations",
+            "National Intelligence Coordinating Agency",
+            "National Security Council",
+            "Anti-Red Tape Authority",
+            "Commission on Filipinos Overseas",
+            "Anti-Money Laundering Council",
+            "Office of the Presidential Adviser on Peace, Reconciliation and Unity",
+            "Office of the Presidential Adviser on the Peace Process"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Presidential Communications Office (PCO)",
+        "UACS_AGY_DSC": [
+            "News and Information Bureau",
+            "Bureau of Communications Services",
+            "National Printing Office",
+            "Philippine Information Agency",
+            "Presidential Broadcast Service-Bureau of Broadcast Services",
+            "Presidential Broadcast Staff (RTVM)",
+            "Presidential Communications Office (Proper)"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "State Universities and Colleges (SUCs)",
+        "UACS_AGY_DSC": [
+            "Leyte Normal University",
+            "Batanes State College",
+            "University of Northern Philippines",
+            "Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology",
+            "Northern Iloilo State University",
+            "Marikina Polytechnic College",
+            "Rizal Technological University",
+            "Aurora State College of Technology",
+            "Caraga State University",
+            "Marinduque State College",
+            "University of Southern Mindanao",
+            "Cavite State University",
+            "Surigao del Norte State University",
+            "Iloilo State University of Fisheries Science and Technology",
+            "Zamboanga State College of Marine Sciences and Technology",
+            "Agusan del Sur State College of Agriculture and Technology",
+            "University of Science and Technology of Southern Philippines - Cagayan de Oro Campus",
+            "Bicol State College of Applied Sciences and Technology",
+            "North Luzon Philippines State College",
+            "Southern Luzon State University",
+            "Central Bicol State University of Agriculture",
+            "Central Philippines State University",
+            "Siquijor State College",
+            "Bukidnon State University",
+            "President Ramon Magsaysay State University",
+            "Sultan Kudarat State University",
+            "Western Mindanao State University",
+            "Pampanga State Agricultural University",
+            "Capiz State University",
+            "Mariano Marcos State University",
+            "Batangas State University",
+            "University of Eastern Philippines",
+            "Nueva Ecija University of Science and Technology",
+            "Southern Leyte State University",
+            "Jose Rizal Memorial State University",
+            "Philippine Merchant Marine Academy",
+            "Aklan State University",
+            "Occidental Mindoro State College",
+            "Polytechnic University of the Philippines",
+            "Isabela State University",
+            "Cebu Normal University",
+            "Partido State University",
+            "Nueva Vizcaya State University",
+            "Sulu State College",
+            "Guimaras State University",
+            "MSU-Tawi-Tawi College of Technology and Oceanography",
+            "Cagayan State University",
+            "Cebu Technological University",
+            "Central Luzon State University",
+            "Eulogio 'Amang' Rodriguez Institute of Science and Technology",
+            "Apayao State College",
+            "North Eastern Mindanao State University",
+            "Philippine State College of Aeronautics",
+            "University of Science and Technology of Southern Philippines - Claveria Campus",
+            "University of the Philippines System",
+            "Adiong Memorial State College",
+            "Don Mariano Marcos Memorial State University",
+            "Technological University of the Philippines",
+            "Pangasinan State University",
+            "Bulacan Agricultural State College",
+            "Camarines Norte State College",
+            "Palompon Institute of Technology",
+            "Kalinga State University",
+            "Mindanao State University",
+            "University of Rizal System",
+            "West Visayas State University",
+            "Western Philippines University",
+            "Cotabato Foundation College of Science and Technology",
+            "University of Antique",
+            "Bicol University",
+            "Ilocos Sur Polytechnic State College",
+            "Biliran Province State University",
+            "South Cotabato State College",
+            "Romblon State University",
+            "Northern Bukidnon State College",
+            "Northwestern Mindanao State College of Science and Technology",
+            "Negros Oriental State University",
+            "Cotabato State University",
+            "Philippine Normal University",
+            "Carlos Hilado Memorial State University",
+            "Eastern Samar State University",
+            "Camiguin Polytechnic State College",
+            "Northern Negros State College of Science and Technology",
+            "Southern Philippines Agri-Business and Marine and Aquatic School of Technology",
+            "Visayas State University",
+            "Laguna State Polytechnic University",
+            "Palawan State University",
+            "Samar State University",
+            "Tarlac State University",
+            "Eastern Visayas State University",
+            "J. H. Cerilles State College",
+            "Ifugao State University",
+            "State University of Northern Negros",
+            "Davao Oriental State University",
+            "Iloilo Science and Technology University",
+            "Bohol Island State University",
+            "Northwest Samar State University",
+            "Davao del Norte State College",
+            "Abra State Institute of Sciences and Technology",
+            "Basilan State College",
+            "Mindoro State University",
+            "Camarines Sur Polytechnic Colleges",
+            "Davao de Oro State College",
+            "Zamboanga Peninsula Polytechnic State University",
+            "University of Southeastern Philippines",
+            "Davao del Sur State College",
+            "Benguet State University",
+            "Bataan Peninsula State University",
+            "Sorsogon State University",
+            "MSU-Iligan Institute of Technology",
+            "Quirino State University",
+            "Philippine Energy Research and Policy Institute",
+            "Central Mindanao University",
+            "Mountain Province State Polytechnic College",
+            "Bulacan State University",
+            "Tawi-Tawi Regional Agricultural College",
+            "Tarlac Agricultural University",
+            "Don Honorio Ventura State University",
+            "Catanduanes State University",
+            "Abra State Institute of Science and Technology",
+            "Mindoro State College of Agriculture and Technology",
+            "Sorsogon State College",
+            "Carlos C. Hilado Memorial State College",
+            "Guimaras State College",
+            "Iloilo State College of Fisheries",
+            "Northern Iloilo Polytechnic State College",
+            "Zamboanga City State Polytechnic College",
+            "Davao Oriental State College of Science and Technology",
+            "Cotabato City State Polytechnic College",
+            "Surigao del Sur State University",
+            "Surigao State College of Technology",
+            "Adiong Memorial Polytechnic State College",
+            "Compostela Valley State College",
+            "Mountain Province State University",
+            "Iloilo State University of Science and Technology",
+            "Palompon Polytechnic State University"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "The Judiciary (JUD)",
+        "UACS_AGY_DSC": [
+            "Court of Tax Appeals",
+            "Supreme Court of the Philippines and the Lower Courts",
+            "Court of Appeals",
+            "Sandiganbayan",
+            "Presidential Electoral Tribunal"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Presidential Communications Operations Office (PCOO)",
+        "UACS_AGY_DSC": [
+            "Presidential Communications Operations Office (Proper)",
+            "Bureau of Broadcast Services"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Joint Legislative-Executive Councils (JLEC)",
+        "UACS_AGY_DSC": [
+            "Legislative-Executive Development Advisory Council"
+        ]
+    },
+    {
+        "UACS_DPT_DSC": "Office of the Press Secretary (OPS)",
+        "UACS_AGY_DSC": [
+            "Office of the Press Secretary (Proper)",
+            "Bureau of Broadcast Services",
+            "Bureau of Communications Services",
+            "National Printing Office",
+            "News and Information Bureau",
+            "Philippine Information Agency",
+            "Presidential Broadcast Staff (RTVM)"
+        ]
+    }
+]
