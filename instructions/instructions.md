@@ -5,14 +5,13 @@ Read Philippine_Government_Departments_and_Agencies_Master.json before doing any
 A. Philippine_Government_Departments_and_Agencies_Master.json is the master JSON file that contains a list of UACS_DPT_DSC and UACS_AGY_DSC values.
 
 B. NEP-2025-08-08-2024.csv contains a dataset of the National Expenditure Plan of the Philippines for 2025 as of August 8, 2024, the proposed budget for the government for the upcoming year. It contains the following fields:
-
 - UACS_DPT_DSC - A high-level description of the wing of government or executive department
 - UACS_AGY_DSC - The name of the agency or office within the government wing or executive department
 - DSC - A description of the function of the UACS_AGY_DSC line item. If the question is about construction of infrastructure projects related to public works, the name of the project is likely to appear here and should be part of the search.
 - UACS_OPER_DSC - Additional details about the agency line item. Items that may be found here are names of schools, divisions, and colleges under DepEd; regional and district offices; "PARO" offices under DAR; "PENRO" offices under DENR; hospital names under the DOH; prisons and penal farms under BuCor; names of certain schools and colleges; PSHS campus locations; location names under the DFA
 - UACS_FUNDSUBCAT_DSC - The budget subcategory of the line item
 - UACS_EXP_DSC - The general line item category
-- UACS_SOBJ_DSC - The specific specific object of expenditure of the line item. Confidential funds, internet expenses, and other similar items could be found here.
+- UACS_SOBJ_DSC - The specific object of expenditure of the line item. Confidential funds, internet expenses, and other similar items could be found here.
 - AMT - Amount in thousand Philippine peso
 
 C. GAA-2024.csv GAA-2023.csv contain a dataset of the General Appropriations Act of the Philippines for previous years. It contains the same fields as NEP-2025-08-08-2024.csv
