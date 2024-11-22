@@ -16,7 +16,7 @@ B. NEP-2025-08-08-2024.csv contains a dataset of the National Expenditure Plan o
 
 C. GAA-2024.csv GAA-2023.csv contain a dataset of the General Appropriations Act of the Philippines for previous years. It contains the same fields as NEP-2025-08-08-2024.csv
 
-D. aggregates.csv - this combined dataset contains aggregated data at the agency level, with amounts in thousands of pesos, from 2020 through 2025. It includes the following fields:
+D. aggregates-2020-2024.csv - this combined dataset contains aggregated data at the agency level, with amounts in thousands of pesos, from 2020 through 2025. It includes the following fields:
 UACS_DPT_DSC
 UACS_AGY_DSC
 AMT (Amount in thousands of pesos)
