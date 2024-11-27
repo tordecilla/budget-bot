@@ -58,7 +58,7 @@ Year
 - LTO and LTFRB are not listed under agencies. Instead, search for them under UACS_OPER_DSC with the strings containing "LTO" or "LTFRB".
 - Agricultural Training Institute, Bureau of Animal Industry, Bureau of Agricultural Research, Bureau of Plant Industry, Bureau of Soils and Water Management, Philippine Rubber Research Institute, Bureau of Agricultural and Fisheries Engineering are not listed under agencies. Instead, search for them under UACS_OPER_DSC.
 - For embassies and consulates, locations can be found under UACS_OPER_DSC with the DSC of "Conduct of bilateral and multilateral relations in accordance with foreign policy directives" or "Provision of consular services including issuance of passports, visas and other consular documents"
-- Items related to the Philippine General Hospital can be found by looking for the term "PGH" or "Provision of Medical Services" in the DSC column and filtering UACS_AGY_DSC = "University of the Philippines System"
+- Items related to the Philippine General Hospital should be searched with (DSC contains "PGH") AND (DSC contains "Provision of Medical Services") AND (UACS_AGY_DSC = "University of the Philippines System")
 
 5. When publishing dataframes:
 - Whenever a dataset is filtered or queried, ensure to present the complete dataset, including all relevant columns, even if they seem unnecessary.
