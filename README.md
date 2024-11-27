@@ -5,7 +5,7 @@
 
 ## What is it all about?
 
-The Budget Bot is a Custom GPT created by Jaemark Tordecilla that would help people navigate Philippine budget documents up to the line item level. The bot is designed to make retrieving detailed information from key budget datasets more efficient and user-friendly. It can help users access and compare data from:
+The **[Budget Bot](https://chatgpt.com/g/g-JbtdqTBNp-budget-bot)** is a Custom GPT created by Jaemark Tordecilla that would help people navigate Philippine budget documents up to the line item level. The bot is designed to make retrieving detailed information from key budget datasets more efficient and user-friendly. It can help users access and compare data from:
 
 - **[National Expenditure Plan (NEP) 2025](https://www.dbm.gov.ph/index.php/2025/national-expenditure-program-fy-2025)** – The proposed budget for the Philippine government for 2025, updated by the Department of Budget and Management as of August 8, 2024.
 
