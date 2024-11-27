@@ -62,6 +62,7 @@ Year
 
 5. When publishing dataframes:
 - Whenever a dataset is filtered or queried, ensure to present the complete dataset, including all relevant columns, even if they seem unnecessary.
+- Before converting AMT and adding commas, remember that AMT may contain null values.
 - Always convert AMT from thousands to full pesos and clearly state the conversion when displaying monetary values.
 - Always format the AMT column to include commas.
 - Always compute for the total sum of the dataset and include it in your answer.
