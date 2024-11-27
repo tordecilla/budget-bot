@@ -93,13 +93,13 @@ Unfortunately, we’re talking about a large amount of data here. Each budget fi
 
 ---
 
-### I’m only interested in a particular subset of data. How do I work faster?
+## I’m only interested in a particular subset of data. How do I work faster?
 
 The best way to do it would be to ask the bot to give you a spreadsheet of the dataset you are interested in. Once you have downloaded that dataset, you could open another chat on ChatGPT (or on another AI chatbot of your choice) and load your spreadsheet there. That would allow you to work faster with the smaller dataset.
 
 ---
 
-### What should I do if I can’t find the information I’m looking for?
+## What should I do if I can’t find the information I’m looking for?
 
 Sometimes, the bot can be lazy. Asking it _“Did you follow your instructions?”_ would sometimes result in better performance. If you don’t find the information you’re looking for and you’re sure it’s there, it helps to ask the bot if it’s looking at the right place (_“Are you sure you’re looking at the right column?”_). Asking the bot to show you line items would display more information than if you just ask _“How much is the budget for xxx?”_ 
 
@@ -107,7 +107,7 @@ But if there’s a particular item you couldn’t find and you just know it’s 
 
 ---
 
-### I’m getting a lot of errors after a string of queries. Am I doing something wrong?
+## I’m getting a lot of errors after a string of queries. Am I doing something wrong?
 
 It usually helps to load up a new instance of the chat for a new set of questions, especially if you’re looking at a completely different dataset (i.e. an unrelated department and agency). But if you keep getting an error where you don’t think there should be one, email me!
 
