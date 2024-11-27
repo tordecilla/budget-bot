@@ -1,6 +1,6 @@
 # Budget Bot - User Guide
 
-**Updated:** 2024-11-22  
+**Updated:** 2024-11-27  
 **Contact:** jaemark@gmail.com  
 
 ## What is it all about?
