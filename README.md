@@ -1,20 +1,20 @@
 # Budget Bot - User Guide
 
-**Updated:** 2024-11-27  
+**Updated:** 2025-01-25
 **Contact:** jaemark@gmail.com  
 
 ## What is it all about?
 
 The **[Budget Bot](https://chatgpt.com/g/g-JbtdqTBNp-budget-bot)** is a Custom GPT created by Jaemark Tordecilla that would help people navigate Philippine budget documents up to the line item level. The bot is designed to make retrieving detailed information from key budget datasets more efficient and user-friendly. It can help users access and compare data from:
 
-- **[National Expenditure Plan (NEP) 2025](https://www.dbm.gov.ph/index.php/2025/national-expenditure-program-fy-2025)** – The proposed budget for the Philippine government for 2025, updated by the Department of Budget and Management as of August 8, 2024.
+- **[General Appropriations Act (GAA) 2025](https://www.dbm.gov.ph/index.php/2025/general-appropriations-act-gaa-fy-2025)** – The approved budget for the Philippine government for 2025, updated by the Department of Budget and Management as of January 21, 2025.
 
 - **The General Appropriations Act for the following years:**  
   - [2024 GAA](https://www.dbm.gov.ph/index.php/2024/general-appropriations-act-gaa-fy-2024)  
   - [2023 GAA](https://www.dbm.gov.ph/index.php/2023/general-appropriations-act-fy-2023)  
  
 - Additionally, it contains data aggregated at the agency level from these sources.
-  - 2025 NEP
+  - 2025 GAA
   - 2024 GAA
   - 2023 GAA
   - [2022 GAA](https://www.dbm.gov.ph/index.php/2022/general-appropriations-act-fy-2022)  
