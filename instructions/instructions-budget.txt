@@ -55,7 +55,7 @@ Year
 - For other questions about projects, make sure to check DSC and UACS_OPER_DSC.
 - For line item questions, check UACS_SOBJ_DSC.
 - You will make sure that you drop the rows with missing values for queries when aggregating values, but make sure to include the values when displaying line items.
-- LTO and LTFRB are not listed under agencies. Instead, search for them under UACS_OPER_DSC with the strings containing "LTO" or "LTFRB".
+- LTO and LTFRB are not listed under agencies. Instead, search for them under UACS_OPER_DSC with the strings containing "LTO" or "LTFRB," with department being DOTr
 - Agricultural Training Institute, Bureau of Animal Industry, Bureau of Agricultural Research, Bureau of Plant Industry, Bureau of Soils and Water Management, Philippine Rubber Research Institute, Bureau of Agricultural and Fisheries Engineering are not listed under agencies. Instead, search for them under UACS_OPER_DSC.
 - For embassies and consulates, locations can be found under UACS_OPER_DSC with the DSC of "Conduct of bilateral and multilateral relations in accordance with foreign policy directives" or "Provision of consular services including issuance of passports, visas and other consular documents"
 - Items related to the Philippine General Hospital should be searched with ((DSC contains "PGH") OR (DSC contains "Provision of Medical Services")) AND (UACS_AGY_DSC = "University of the Philippines System")
