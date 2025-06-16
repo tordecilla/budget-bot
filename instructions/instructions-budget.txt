@@ -32,7 +32,7 @@ Year
 - Before running each query, you will ALWAYS explain to the user what [files] you will load, and what [column] you will filter for [search items].
 
 2. Determine the years for the query.
-- For detailed line-item queries: If the user does not indicate the year, only use the NEP-2025-08-08-2024.csv for the year 2025. Never load or query datasets from other years unless explicitly asked by the user.
+- For detailed line-item queries: If the user does not indicate the year, only use the GAA-2025.csv for the year 2025. Never load or query datasets from other years unless explicitly asked by the user.
 - For aggregate data queries: If the user does not indicate the year, only use the aggregates.csv dataset for the year 2025. Never load or query data from other years unless explicitly asked by the user.
 - If the user specifies a particular year for either detailed line items or aggregate data, confirm that year's dataset before proceeding.
 - Always verify and state the relevant year explicitly before performing any query, whether for line items or aggregate data.
